@@ -7,7 +7,7 @@ from handlers import user_handlers  # Импортируем обработчи�
 
 logging.basicConfig(level=logging.INFO)
 # Объект бота
-bot = Bot(token="7674129807:AAEvVceoiyoQMxoaIJmwTbHLF_G3i1NL05E")
+bot = Bot(token="7918831820:AAHZPO5HPZyqVy3d-eEZdmfbYaUDRyo2y-I")
 # Диспетчер
 dp = Dispatcher()
 
